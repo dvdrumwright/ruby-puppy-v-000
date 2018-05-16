@@ -10,7 +10,7 @@ end
 
 def all 
   @@all.each do |all| 
-    puts all.dog 
+    puts all.name 
   end 
 end 
  
