@@ -17,7 +17,7 @@ end
  
  def self.clear_all 
    @@all.each do |clear| 
-     @@all[clear] = @@all.(dog)
+     @@all[clear] = @@all.(clear)
    
  end 
 end 
