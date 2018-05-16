@@ -16,10 +16,8 @@ end
  
  
  def self.clear_all 
-   @@all.each do |clear| 
-     @@all[clear] = @@all.(clear)
-   
- end 
+   @@all.clear 
+   end 
 end 
 
 
